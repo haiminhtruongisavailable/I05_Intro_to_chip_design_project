@@ -1,0 +1,11 @@
+code,degrees,role
+0,0.00,charter
+21,29.53,nearest byte to 30 degrees
+32,45.00,charter
+43,60.47,nearest byte to 60 degrees
+64,90.00,charter
+96,135.00,own case
+128,180.00,extra
+192,270.00,extra
+224,315.00,extra
+255,358.59,own corner

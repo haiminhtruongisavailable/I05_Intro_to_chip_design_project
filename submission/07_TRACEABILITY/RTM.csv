@@ -1,0 +1,8 @@
+requirement,block,evidence,limit
+"8-step rotation by add subtract and shift","cordic_block_a cordic_block_b atan_lut","734 sky130 cells 0 multiply cells 0 memories","arctan case is not its own cell count"
+"Charter pins","tt_um_cordic","I05 PIN SHELL PASS","GDS top is cordic"
+"Sequential core","dreg and four states","66 dfrtp_1","27-30 hint assumes 8-bit x and y"
+"Six stored pairs band +-4","tb_cordic.v","I05 RTL TB PASS","a difference of 4 still passes"
+"Ten angles against true sine and cosine","error_table.py","max abs sin 2 max abs cos 4","these ten codes not all 256"
+"Clock constraint of the layout","config.tcl","wns 0 tns 0 at 10 ns pin delay 2 ns","one clock buffer drives 11 loads"
+"Layout and GDS","RUN_2026.10.03_09.21.28","DRC 0 LVS clean antenna 0","chip was not fabricated"
