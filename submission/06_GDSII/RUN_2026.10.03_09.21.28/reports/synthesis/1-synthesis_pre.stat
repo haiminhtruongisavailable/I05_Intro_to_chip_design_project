@@ -1,0 +1,26 @@
+
+52. Printing statistics.
+
+=== cordic ===
+
+   Number of wires:                739
+   Number of wire bits:            889
+   Number of public wires:          26
+   Number of public wire bits:     175
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                845
+     $_ANDNOT_                     226
+     $_AND_                          8
+     $_DFFE_PN0P_                   65
+     $_DFF_PN0_                      1
+     $_MUX_                        169
+     $_NAND_                        35
+     $_NOR_                         33
+     $_NOT_                         63
+     $_ORNOT_                       22
+     $_OR_                          84
+     $_XNOR_                        24
+     $_XOR_                        115
+

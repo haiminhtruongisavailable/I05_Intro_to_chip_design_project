@@ -1,0 +1,21 @@
+
+65. Executing CHECK pass (checking for obvious problems).
+Checking module cordic...
+Warning: Wire cordic.\sin [7] is used but has no driver.
+Warning: Wire cordic.\sin [6] is used but has no driver.
+Warning: Wire cordic.\sin [5] is used but has no driver.
+Warning: Wire cordic.\sin [4] is used but has no driver.
+Warning: Wire cordic.\sin [3] is used but has no driver.
+Warning: Wire cordic.\sin [2] is used but has no driver.
+Warning: Wire cordic.\sin [1] is used but has no driver.
+Warning: Wire cordic.\sin [0] is used but has no driver.
+Warning: Wire cordic.\done is used but has no driver.
+Warning: Wire cordic.\cos [7] is used but has no driver.
+Warning: Wire cordic.\cos [6] is used but has no driver.
+Warning: Wire cordic.\cos [5] is used but has no driver.
+Warning: Wire cordic.\cos [4] is used but has no driver.
+Warning: Wire cordic.\cos [3] is used but has no driver.
+Warning: Wire cordic.\cos [2] is used but has no driver.
+Warning: Wire cordic.\cos [1] is used but has no driver.
+Warning: Wire cordic.\cos [0] is used but has no driver.
+Found and reported 17 problems.

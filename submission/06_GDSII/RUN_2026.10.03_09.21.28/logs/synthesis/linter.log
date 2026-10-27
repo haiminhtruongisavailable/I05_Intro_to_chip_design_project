@@ -1,0 +1,6 @@
+%Warning-UNUSEDSIGNAL: /openlane/designs/cordic/src/cordic_processing.v:22:23: Signal is not used: 'z'
+                                                                             : ... In instance cordic.u_proc
+   22 |     wire signed [9:0] z;
+      |                       ^
+                       ... For warning description see https://verilator.org/warn/UNUSEDSIGNAL?v=5.009
+                       ... Use "/* verilator lint_off UNUSEDSIGNAL */" and lint_on around source to disable this message.
